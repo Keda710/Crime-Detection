@@ -1,0 +1,38 @@
+/* src/Account.css */
+.container.account-section {
+  border: 2px solid red;
+  width: 30%;
+  margin: 20px auto; /* Center the container horizontally */
+  padding: 20px; /* Added padding for better spacing */
+  text-align: center; /* Center text within the container */
+  position: relative; /* Make the container a positioning context for absolute positioning */
+  color:aqua;
+}
+
+.account-form-container {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.create-account-link {
+  position: absolute;
+  right: 15px; /* Adjust as needed */
+  bottom: 10px;
+  color:aqua
+}
+
+.create-account-link1 {
+  position: absolute;
+  left: 15px; /* Adjust as needed */
+  bottom: 10px;
+  color:aqua;
+}
+
+.create-account-link a,
+.create-account-link1 a {
+  text-decoration: none; /* Remove underline from links */
+  color: blue; /* Set link color */
+  margin-top: 10px; /* Adjust as needed */
+}
+
+/* Add other styling as needed */
