@@ -145,8 +145,7 @@ The future potential of the website could be expanded through the integration of
 ### Precise Anomaly Localization
 The AI precisely pinpoints the exact frame within the video where an anomaly occurs, enabling quick identification and response.
 
-[![Watch the video](https://via.placeholder.com/800x450.png?text=Click+to+watch+demo)](https://github.com/Keda710/Keda710.github.io/Crime-Detection/main/output_video.mp4)
-
+[![Watch the demo video](https://via.placeholder.com/800x450.png?text=Click+to+watch+video)](https://github.com/Keda710/Crime-Detection/raw/main/output_video.mp4)
 
 
 ### Community Engagement Platform:
