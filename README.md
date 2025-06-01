@@ -146,7 +146,7 @@ The future potential of the website could be expanded through the integration of
 The AI precisely pinpoints the exact frame within the video where an anomaly occurs, enabling quick identification and response.
 
 
-https://github.com/toshan07/Crime-Detection/assets/120120160/b5887489-482f-4b1f-bdfd-6da1853cd092
+https://github.com/Keda710/Crime-Detection/assets/120120160/b5887489-482f-4b1f-bdfd-6da1853cd092
 
 
 
